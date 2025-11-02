@@ -1,0 +1,14 @@
+# Frontend / Vite
+frontend/node_modules
+frontend/dist
+
+# Electron build (NU urcăm .exe/.dll)
+frontend/release
+
+# IDE / OS
+.vscode
+.idea
+.DS_Store
+
+# Backend (dacă e mutat)
+backend/target
